@@ -14,13 +14,13 @@
   </ul>
   
   <h2>Informe adjunto</h2>
-  <p><a href="https://github.com/OiciruamauriciO/encuesta_backend/blob/master/informeprueba.pdf">Informe Sonarqube, Junit, Prueba en Frontend Angular.</a></p>
+  <p><a href="https://drive.google.com/file/d/1tvKlIQ35MFQw-Xx4oTBqSuS0aV4SoRPI/view?usp=sharing">Informe Sonarqube, Junit, Prueba en Frontend Angular.</a></p>
 
   <h2>Postman Collection</h2>
   <p><a href="https://drive.google.com/file/d/1n5sY39IKmoMgJINbTvx15tm0ZKapRagy/view?usp=sharing">Postman Collection</a></p>
 
   <h2>Instrucciones</h2>
-  <p><a href="https://github.com/OiciruamauriciO/encuesta_backend/blob/master/informeprueba.pdf">informeprueba.pdf</a></p>
+  <p><a href="https://drive.google.com/file/d/1Ba7cA7JM6Q8nIdyRy0N14etq_wgbNogn/view?usp=sharing">Instrucciones</a></p>
 
   <h2>Video test adjunto</h2>
   <p><a href="https://drive.google.com/file/d/1ECGOoQmO-oVahxXxc_qFpkjrQZJUV8Vd/view?usp=sharing">Video app</a></p>    
